@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project-generated files
+**/catboost_info/
+/artifacts/data.csv
+/artifacts/train.csv
+/artifacts/test.csv
